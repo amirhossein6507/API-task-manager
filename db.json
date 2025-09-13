@@ -4,7 +4,9 @@
     "name": "amir",
     "taskTitle":"install windows"
     "task": "install windows"
+    "status":"false"
   }
 ]
+
 
 
